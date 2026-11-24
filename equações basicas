@@ -1,0 +1,12 @@
+NX = int(input("Digite um número: "))
+NY = int(input("Digite outro numero: "))
+
+soma = NX + NY
+sub = NX - NY
+multi = NX * NY
+div =  NX / NY
+
+print("soma ", soma)
+print("subtração ", sub)
+print("multiplicação ", multi)
+print("divisão ", div)
